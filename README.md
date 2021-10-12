@@ -4,7 +4,7 @@ Hello, thanks for stopping by, this is **Evelyn**.
 [personal]
 name = "evelyn oliveira"
 pronouns = "she" | "her"
-city = 'rio de janeiro, brazil'
+city = "rio de janeiro, brazil"
 
 
 [professional]
