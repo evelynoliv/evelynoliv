@@ -12,6 +12,7 @@ currently-employed = false
 title = "future dev op"
 
 ```
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,6 +26,7 @@ title = "future dev op"
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -33,7 +35,14 @@ title = "future dev op"
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=evelynoliv&show_icons=true&theme=vision-friendly-dark" alt="evelynoliv's stats"/>
 </p>
 
-<br><br>
+<br>
+
+### Contact Me
+</a>
+<a href="https://www.linkedin.com/in/evelynolives/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-evelynolives-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
 
 
 
