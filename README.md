@@ -30,7 +30,7 @@ title = "future dev op"
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="left">  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
