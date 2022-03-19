@@ -9,7 +9,7 @@ city = "rio de janeiro, brazil"
 
 [professional]
 currently-employed = false
-title = "future dev op"
+title = "fullstack developer"
 
 ```
 <br>
