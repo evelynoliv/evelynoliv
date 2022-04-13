@@ -13,7 +13,6 @@ title = "fullstack developer"
 
 ```
 <br>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,13 +26,11 @@ title = "fullstack developer"
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&theme=radical&show_icons=true)](https://github.com/eveynoliv/github-readme-stats)
 
 <br>
-
 ### Contact Me
 </a>
 <a href="https://www.linkedin.com/in/evelynolives/" target="_blank">
