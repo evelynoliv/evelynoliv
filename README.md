@@ -13,7 +13,7 @@ title = "fullstack developer"
 
 ```
 
-### 🛠 &nbsp;Tech
+### 🛠&nbsp;Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -24,11 +24,11 @@ title = "fullstack developer"
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️&nbsp;GitHub Analytics
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&theme=radical&show_icons=true)](https://github.com/eveynoliv/github-readme-stats)
 
 
-### &nbsp;Contact Me 💬
+### 💬&nbsp;Contact Me 
 <a href="https://www.linkedin.com/in/evelynolives/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evelynolives-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
