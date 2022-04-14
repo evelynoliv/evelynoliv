@@ -21,7 +21,7 @@ title = "fullstack developer"
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 
 ### ⚙️&nbsp;Analytics
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&theme=radical&show_icons=true)](https://github.com/eveynoliv/github-readme-stats)
