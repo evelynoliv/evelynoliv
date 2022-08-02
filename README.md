@@ -24,7 +24,7 @@ title = "fullstack developer"
 
 
 ### ⚙️&nbsp;Analytics
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&theme=radical&show_icons=true)](https://github.com/eveynoliv/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evelynoliv&theme=radical&show_icons=true)](https://github.com/eveyn/github-readme-stats)
 
 
 ### 💬&nbsp;Contact Me 
