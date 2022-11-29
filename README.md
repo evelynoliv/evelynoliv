@@ -1,15 +1,20 @@
 ### Hello, thanks for stopping by, this is **Evelyn**.
 
 ```javascript
-[personal]
-name = "evelyn oliveira"
-pronouns = "she" | "her"
-city = "rio de janeiro"
-
-
-[professional]
-currently-employed = true
-title = "fullstack developer"
+const aboutMe = {
+    name: 'evelyn oliveira',
+    pronouns: 'she/her',
+    city: 'rio de janeiro',
+    country: 'brazil',
+    currentlyEmployed: true,
+    title: 'fullstack developer',
+    hobbies: [
+      'dancing',
+      'learning new things',
+      'riding my bike around the city',
+      'travelling'
+    ],
+  };
 
 ```
 
