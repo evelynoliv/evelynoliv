@@ -1,6 +1,5 @@
 ### Hello, thanks for stopping by, this is **Evelyn**.
 
-### Checkout my website: https://evelynoliv.vercel.app/
 
 ```javascript
 const aboutMe = {
@@ -38,6 +37,8 @@ const aboutMe = {
 ### 💬&nbsp;Contact Me 
 <a href="https://www.linkedin.com/in/evelynolives/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evelynolives-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
+  ### Checkout my website: https://evelynoliv.vercel.app/
 
 
 
