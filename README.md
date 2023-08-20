@@ -5,7 +5,7 @@
 const aboutMe = {
     name: 'evelyn oliveira',
     pronouns: 'she/her',
-    city: 'rio de janeiro',
+    city: 'são paulo',
     country: 'brazil',
     currentlyEmployed: true,
     title: 'fullstack developer',
