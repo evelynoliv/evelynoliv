@@ -38,8 +38,6 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/evelynolives/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-evelynolives-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
-  ### Checkout my website: https://evelynoliv.vercel.app/
-
 
 
 
