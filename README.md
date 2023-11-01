@@ -26,7 +26,10 @@ const aboutMe = {
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![image](https://img.shields.io/badge/ReactJS-5ed3f3?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![image](https://img.shields.io/badge/MySQL-132170?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
+![image](https://img.shields.io/badge/Styled-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![image](https://img.shields.io/badge/Git-FE7A16?style=for-the-badge&logo=git&logoColor=black)&nbsp;
+![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![image](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![image](https://img.shields.io/badge/Redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 
 
